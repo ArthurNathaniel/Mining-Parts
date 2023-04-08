@@ -295,3 +295,19 @@ body {
   background: var(--color);
   color: #fff;
 }
+
+.list-group-flush li {
+    text-align: justify;
+}
+
+.card-header{
+    text-align: justify;
+    background-color: #fbcb21;
+    font-weight: 600;
+}
+.card-header-{
+    text-align: justify;
+    color: #fbcb21;
+    background-color: #000;
+    font-weight: 600;
+}
