@@ -77,7 +77,7 @@ body {
 
 .welcome-home {
     padding: 0 5%;
-    margin-block: 80px;
+    margin-block: 50px;
 }
 
 .welcome_p {
@@ -160,7 +160,7 @@ body {
 }
 
 .contact-home {
-    margin-top: 80px;
+    margin-top: 50px;
     padding: 0 5%;
 }
 
@@ -169,7 +169,7 @@ body {
 }
 
 .footer {
-    margin-top: 80px;
+    margin-top: 50px;
     padding: 0 5%;
     text-align: justify;
     background-color: #fbcb21;
